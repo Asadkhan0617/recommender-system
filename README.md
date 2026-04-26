@@ -1,10 +1,10 @@
-# 🎬 Smart Recommendation System
+# Smart Recommendation System
 
 A hybrid movie recommendation system that combines collaborative filtering and content-based filtering to provide personalized recommendations.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Hybrid recommendation (Collaborative + Content-Based)
 - Uses cosine similarity for user and item similarity
@@ -16,7 +16,7 @@ A hybrid movie recommendation system that combines collaborative filtering and c
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - Python
 - Pandas, NumPy
@@ -26,7 +26,7 @@ A hybrid movie recommendation system that combines collaborative filtering and c
 
 ---
 
-## 📊 How It Works
+## How It Works
 
 1. Data preprocessing and merging
 2. User-item matrix creation
